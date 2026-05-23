@@ -1,2 +1,2 @@
-# English-school
-project of web-site
+# ABC-kids
+project of web-site for english school
